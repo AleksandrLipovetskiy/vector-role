@@ -3,7 +3,7 @@ galaxy_info:
   description: role install vector
   company: home
   role_name: lighthouse
-  namespace: AleksandrLipovetskiy
+  namespace: aleksandrlipovetskiy
   galaxy_tags:
     - 0.0.1
     - vector
